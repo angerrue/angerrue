@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @angerrue
+- 👀 I’m interested in languages,programming,fashion and nature.
+- 🌱 I’m currently learning the basics. HTML,CSS and JS.
+- 📫 How to reach me : Twitter @angerruu
